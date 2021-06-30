@@ -1,2 +1,2 @@
-# ArduinoExample
-Arduino code example
+# Arduino Code Example
+Arduino code for my parters to observe
